@@ -1,16 +1,25 @@
-### Hi there 👋
+### console.log("Hello World!!"); 👋
 
-<!--
-**Edgar9408/Edgar9408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Edgar Palma. Soy Desarrollador Full Stack, tengo 26 años soy una persona comprometida con mi trabajo, tengo facilidad para trabajar en equipo, comunicarme, adaptarme a los cambios y trabajar con metodologías ágiles, además soy perseverante, autodidacta, apasionado por la tecnología, disfruto estudiar y ampliar mis conocimientos, también me encantan los retos y los nuevos proyectos.
 
-Here are some ideas to get you started:
+Email: edgar.palma9408@gmail.com
+Portafolio web: https://edgar9408.github.io/portafolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades:
+- JavaScript
+- TypeScript
+- React.js
+- Redux
+- Node.js
+- Sequelize ORM
+- Express.js
+- PostgreSQL
+- HTML
+- CSS
+- Git
+- NPM
+- Scrum
+
+He trabajado en algunos proyectos sencillos:
+WeatherApp
+
