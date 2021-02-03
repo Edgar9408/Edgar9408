@@ -15,5 +15,4 @@ He trabajado en algunos proyectos sencillos:
 # Gestion de Usuarios
 ![Usuarios](https://user-images.githubusercontent.com/63587022/106766619-cd077b80-6618-11eb-84d0-77e3142896ea.JPG)
 
-# WeatherApp
-![Weater-App](https://user-images.githubusercontent.com/63587022/106765106-37b7b780-6617-11eb-801e-4678bcb143db.JPG)
+Entre otros.
