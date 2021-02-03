@@ -5,21 +5,9 @@ Mi nombre es Edgar Palma. Soy Desarrollador Full Stack, tengo 26 años soy una p
 Email: edgar.palma9408@gmail.com
 Portafolio web: https://edgar9408.github.io/portafolio
 
-Habilidades:
-- JavaScript
-- TypeScript
-- React.js
-- Redux
-- Node.js
-- Sequelize ORM
-- Express.js
-- PostgreSQL
-- HTML
-- CSS
-- Git
-- NPM
-- Scrum
+**Habilidades:** JavaScript, TypeScript, React.js, Redux, Node.js, Sequelize ORM, Express.js, PostgreSQL, HTML, CSS, Git, NPM, Scrum
 
 He trabajado en algunos proyectos sencillos:
-WeatherApp
 
+# WeatherApp
+![Weater-App](https://user-images.githubusercontent.com/63587022/106765106-37b7b780-6617-11eb-801e-4678bcb143db.JPG)
